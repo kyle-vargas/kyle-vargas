@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m a quantitative analyst and data scientist in the sports betting and fantasy sports industry specializing in sports analytics, predictive modeling, and market optimization.  
+I’m a quantitative analyst and data scientist with a background in game operations in the sports betting and fantasy sports industry specializing in sports analytics, predictive modeling, and market optimization.  
 
 My work focuses on building data-driven frameworks that improve forecasting pricing efficiency and quantitative risk management.
 
