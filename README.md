@@ -15,7 +15,7 @@ I’m a quantitative analyst and data scientist with a background in game operat
 Scaled a sports trading operation from small stakes to generating $200K+ in profit in 2025 on seven-figure annual volume across regulated sportsbooks, exchanges, and sweepstakes platforms. Applied quantitative analysis to implied probabilities, pricing models, and market inefficiencies to identify positive expected value opportunities across markets of varying maturity and liquidity.
 
 ### NHL Market-Making and Optimization
-Led the optimization of an NHL product by improving pricing efficiency, managing exposure, and supporting strong growth in handle, hold, and customer participation.
+Led the optimization of an NHL DFS product by improving pricing efficiency, managing exposure, and supporting strong growth in handle, hold, and customer participation.
 
 ### Python-Based Predictive Modeling Framework
 Designed and implemented a Python-based framework generating 40,000+ projections across unique hockey stat types such as Time On Ice, Hits, Faceoffs Won and more to support pricing, efficiency, and market performance.
