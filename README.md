@@ -7,8 +7,7 @@ My work focuses on building data-driven frameworks that improve forecasting pric
 
 - Build predictive models that support pricing and forecasting decisions
 - Design and optimize data-driven frameworks for market efficiency
-- Monitor liquidity, exposure, and probability shifts across live markets
-- Translate complex data into actionable business and trading insights
+- Monitor liquidity, exposure, and probability shifts across live sports markets
 - Lead cross-functional analytics efforts focused on performance and scale
 
 ## Featured Work
